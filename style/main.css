@@ -1,0 +1,102 @@
+.outer
+{
+    width:100%;
+    text-align: center;
+}
+.inner
+{
+    display: inline-block;
+}
+
+#result
+{
+	
+	width: 535px;
+	position: relative; 
+	left:13%; 
+	
+	
+}
+
+#result2
+{
+	
+	width: 535px;
+	position: relative; 
+	left:13%; 
+	
+	
+}
+
+#result3
+{
+	
+	width: 730px;
+	
+}
+
+.text1
+{
+	position:relative;
+	text-align: center;
+	bottom: 80px;
+	text-decoration: overline;
+	font-style: oblique;
+}
+
+header
+{
+	background: url(gender.jpg);
+	display: block;
+    	margin-left: auto;
+    	margin-right: auto;
+    	background-size:100% 100%;
+}
+
+.bg-primary
+{
+	background-color: #007bff00!important;
+	height: 500px;
+}
+
+#about
+{
+	
+	background-color: #0072ff14;
+	
+}
+
+.bg-light
+{
+	
+	background-color: #00ffad14!important;
+	
+}
+
+#contact
+{
+	
+	background-color: #0072ff14;
+	
+}
+
+.dropdown-menu{
+	
+	cursor:pointer;
+	
+}
+
+.text2
+{
+	font-size: 20px;
+	color: #00000080;
+	position:relative;
+	text-align: center;
+	bottom: 40px;
+	font-style: oblique;
+}
+
+
+
+
+
